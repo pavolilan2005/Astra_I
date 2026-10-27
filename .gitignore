@@ -1,0 +1,6 @@
+# VS Code local history
+.history/
+
+# KiCad backups / autosaves
+*-backups/
+*.lck
