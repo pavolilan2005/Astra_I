@@ -256,7 +256,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "NÚMERO 1"
+      "sch_revision": "NÚMERO 2"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -688,7 +688,7 @@
         "uuid": "2b15a8ca-ea6b-466b-815f-60af99cbac8d"
       }
     ],
-    "used_designators": "C12",
+    "used_designators": "C12,R7-8,J4,U3",
     "variants": []
   },
   "sheets": [
