@@ -147,7 +147,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../../Documents/Astra_I/OBC/")
+			(outputdirectory "../../Gerbers/OBC/")
 		)
 	)
 	(footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
