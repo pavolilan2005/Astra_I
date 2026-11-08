@@ -10092,7 +10092,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 57.15) (xy 237.49 57.15)
+			(xy 247.65 143.51) (xy 250.19 143.51)
 		)
 		(stroke
 			(width 0)
@@ -10352,7 +10352,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 57.15) (xy 227.33 57.15)
+			(xy 237.49 143.51) (xy 240.03 143.51)
 		)
 		(stroke
 			(width 0)
@@ -13802,7 +13802,7 @@
 	)
 	(global_label "VBUS"
 		(shape input)
-		(at 237.49 57.15 0)
+		(at 250.19 143.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13812,7 +13812,7 @@
 		)
 		(uuid "224c0ed9-d831-4839-a4ef-1efe5771aa73")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 245.3738 57.15 0)
+			(at 258.0738 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18266,7 +18266,7 @@
 	)
 	(global_label "5V"
 		(shape input)
-		(at 224.79 57.15 180)
+		(at 237.49 143.51 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18276,7 +18276,7 @@
 		)
 		(uuid "a2a1cb89-e72b-48b9-83e9-150854539d9e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.5067 57.15 0)
+			(at 232.2067 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22253,7 +22253,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW_Reset"
 			(at 38.1 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24546,7 +24546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032"
+		(property "Footprint" "Battery:Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles"
 			(at 307.34 37.846 90)
 			(hide yes)
 			(show_name no)
@@ -25204,7 +25204,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW_User"
 			(at 41.91 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25599,7 +25599,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW_Boot"
 			(at 86.36 45.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26485,7 +26485,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 231.14 57.15 0)
+		(at 243.84 143.51 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26496,7 +26496,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0a04e51-ce38-4d8b-9faa-74fafa67889f")
 		(property "Reference" "D4"
-			(at 231.14 50.8 0)
+			(at 243.84 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26506,7 +26506,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 231.14 53.34 0)
+			(at 243.84 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26516,7 +26516,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 231.14 57.15 0)
+			(at 243.84 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26527,7 +26527,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 57.15 0)
+			(at 243.84 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26538,7 +26538,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 231.14 57.15 0)
+			(at 243.84 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26549,7 +26549,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 231.14 57.15 0)
+			(at 243.84 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26560,7 +26560,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 231.14 57.15 0)
+			(at 243.84 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
